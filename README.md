@@ -1,6 +1,3 @@
-# sges-java
-Sistema de Gestão desenvolvido em Java para prática de POO e tratamento de exceções.
-
 # SGES — Sistema de Gestão
 
 Projeto desenvolvido em Java com o objetivo de aplicar conceitos de Programação Orientada a Objetos (POO), organização de código, validação de dados e tratamento de exceções.
@@ -70,4 +67,4 @@ O desenvolvimento deste projeto busca consolidar os fundamentos de Java e Progra
 
 ## Status
 
-Em desenvolvimento — projeto de aprendizado e prática de Java.  (Uso de ia para orientação e aprendizado, nenhuma operação teve envolvimento de Ctrl C e Ctrl V)
+Em desenvolvimento — projeto de aprendizado e prática de Java.
